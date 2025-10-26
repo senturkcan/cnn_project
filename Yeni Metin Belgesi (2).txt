@@ -1,0 +1,143 @@
+Overall Accuracy: 0.3795
+
+Overall Metrics:
+True Positives: 181
+False Positives: 296
+True Negatives: 8767
+False Negatives: 296
+
+Metrics for each class:
+
+Class 0:
+Precision: 0.6667
+Recall: 0.1000
+F1-score: 0.1739
+
+Class 1:
+Precision: 0.6250
+Recall: 0.3125
+F1-score: 0.4167
+
+Class 2:
+Precision: 0.8824
+Recall: 0.7500
+F1-score: 0.8108
+
+Class 3:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 4:
+Precision: 0.4000
+Recall: 0.1000
+F1-score: 0.1600
+
+Class 5:
+Precision: 0.2313
+Recall: 0.8052
+F1-score: 0.3594
+
+Class 6:
+Precision: 0.7500
+Recall: 0.1500
+F1-score: 0.2500
+
+Class 7:
+Precision: 0.6154
+Recall: 0.4000
+F1-score: 0.4848
+
+Class 8:
+Precision: 0.4615
+Recall: 0.3000
+F1-score: 0.3636
+
+Class 9:
+Precision: 0.4706
+Recall: 0.8000
+F1-score: 0.5926
+
+Class 10:
+Precision: 0.4615
+Recall: 0.3000
+F1-score: 0.3636
+
+Class 11:
+Precision: 1.0000
+Recall: 0.0500
+F1-score: 0.0952
+
+Class 12:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 13:
+Precision: 0.6452
+Recall: 0.8696
+F1-score: 0.7407
+
+Class 14:
+Precision: 0.5000
+Recall: 0.0500
+F1-score: 0.0909
+
+Class 15:
+Precision: 0.3889
+Recall: 0.3043
+F1-score: 0.3415
+
+Class 16:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 17:
+Precision: 0.5000
+Recall: 0.0500
+F1-score: 0.0909
+
+Class 18:
+Precision: 0.5714
+Recall: 0.9091
+F1-score: 0.7018
+
+Class 19:
+Precision: 1.0000
+Recall: 0.0500
+F1-score: 0.0952
+
+Weighted Average Metrics:
+Precision: 0.4787
+Recall: 0.3795
+F1-score: 0.3203
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.10      0.17        20
+           1       0.62      0.31      0.42        32
+           2       0.88      0.75      0.81        20
+           3       0.00      0.00      0.00        20
+           4       0.40      0.10      0.16        20
+           5       0.23      0.81      0.36        77
+           6       0.75      0.15      0.25        20
+           7       0.62      0.40      0.48        20
+           8       0.46      0.30      0.36        20
+           9       0.47      0.80      0.59        20
+          10       0.46      0.30      0.36        20
+          11       1.00      0.05      0.10        20
+          12       0.00      0.00      0.00        20
+          13       0.65      0.87      0.74        23
+          14       0.50      0.05      0.09        20
+          15       0.39      0.30      0.34        23
+          16       0.00      0.00      0.00        20
+          17       0.50      0.05      0.09        20
+          18       0.57      0.91      0.70        22
+          19       1.00      0.05      0.10        20
+
+    accuracy                           0.38       477
+   macro avg       0.51      0.32      0.31       477
+weighted avg       0.48      0.38      0.32       477
+

@@ -1,0 +1,153 @@
+Overall Accuracy: 0.2411
+
+Overall Metrics:
+True Positives: 115
+False Positives: 362
+True Negatives: 8701
+False Negatives: 362
+C:\Users\canse\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+C:\Users\canse\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+C:\Users\canse\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+C:\Users\canse\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+C:\Users\canse\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Metrics for each class:
+
+Class 0:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 1:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 2:
+Precision: 0.7857
+Recall: 0.5500
+F1-score: 0.6471
+
+Class 3:
+Precision: 0.1429
+Recall: 0.0500
+F1-score: 0.0741
+
+Class 4:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 5:
+Precision: 0.2092
+Recall: 0.8831
+F1-score: 0.3383
+
+Class 6:
+Precision: 0.1250
+Recall: 0.0500
+F1-score: 0.0714
+
+Class 7:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 8:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 9:
+Precision: 0.3333
+Recall: 0.3000
+F1-score: 0.3158
+
+Class 10:
+Precision: 0.5000
+Recall: 0.1000
+F1-score: 0.1667
+
+Class 11:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 12:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 13:
+Precision: 0.2692
+Recall: 0.9130
+F1-score: 0.4158
+
+Class 14:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 15:
+Precision: 0.1429
+Recall: 0.0870
+F1-score: 0.1081
+
+Class 16:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 17:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Class 18:
+Precision: 0.7500
+Recall: 0.1364
+F1-score: 0.2308
+
+Class 19:
+Precision: 0.0000
+Recall: 0.0000
+F1-score: 0.0000
+
+Weighted Average Metrics:
+Precision: 0.1674
+Recall: 0.2411
+F1-score: 0.1440
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        20
+           1       0.00      0.00      0.00        32
+           2       0.79      0.55      0.65        20
+           3       0.14      0.05      0.07        20
+           4       0.00      0.00      0.00        20
+           5       0.21      0.88      0.34        77
+           6       0.12      0.05      0.07        20
+           7       0.00      0.00      0.00        20
+           8       0.00      0.00      0.00        20
+           9       0.33      0.30      0.32        20
+          10       0.50      0.10      0.17        20
+          11       0.00      0.00      0.00        20
+          12       0.00      0.00      0.00        20
+          13       0.27      0.91      0.42        23
+          14       0.00      0.00      0.00        20
+          15       0.14      0.09      0.11        23
+          16       0.00      0.00      0.00        20
+          17       0.00      0.00      0.00        20
+          18       0.75      0.14      0.23        22
+          19       0.00      0.00      0.00        20
+
+    accuracy                           0.24       477
+   macro avg       0.16      0.15      0.12       477
+weighted avg       0.17      0.24      0.14       477
+
